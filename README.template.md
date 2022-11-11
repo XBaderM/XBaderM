@@ -35,4 +35,4 @@
 
 ## 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,git,github,gitlab,graphql)](https://skillicons.dev)
