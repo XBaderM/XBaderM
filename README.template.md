@@ -1,4 +1,4 @@
-![baders GitHub Banner](./assets/moon.jpg)
+![baders GitHub Banner](./assets/moon2.png)
 
 [![LinkedIn Badge](./assets/linkedin.svg)](https://www.linkedin.com/in/braydon-coyer/)
 
