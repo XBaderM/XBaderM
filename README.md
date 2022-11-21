@@ -42,4 +42,4 @@
 
 ## 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,tailwind,bootstrap,cs,git,github,gitlab,graphql,ai,ps,xd,jest,jquery,mongodb,mysql,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,tailwind,bootstrap,cs,git,github,gitlab,graphql,ai,ps,xd,jest,jquery,mongodb,mysql,vscode)
