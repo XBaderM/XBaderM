@@ -23,12 +23,11 @@
 
 <br>
 
-<a href="https://github.com/XBaderM/e-commerce">
+<a href="https://github.com/XBaderM/Note-Taker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=Note-Taker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/XBaderM/social-network-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=
-Readme-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/XBaderM/Note-Taker">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=Readme-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <a href="https://github.com/XBaderM/e-commerce">
