@@ -12,11 +12,11 @@
 
 <br>
 <a href="https://github.com/XBaderM/tech-blog">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=tech-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="http://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=tech-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/XBaderM/e-commerce">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=e-commerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="http://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=e-commerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
@@ -24,17 +24,17 @@
 <br>
 
 <a href="https://github.com/XBaderM/Note-Taker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=Note-Taker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=Note-Taker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/XBaderM/Readme-Generator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=Readme-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=Readme-Generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <a href="https://github.com/XBaderM/Day-Planner">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=XBaderM&repo=Day-Planner&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=Day-Planner&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/XBaderM/Weather-Dashboard">
-  <img align="center" style="margin:0.5rem" src="github-readme-stats-xbaderm.vercel.app/api/pin/?username=XBaderM&repo=Weather-Dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-w2gq.vercel.app/api/pin/?username=XBaderM&repo=Weather-Dashboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/XBaderM">
-  <img align="center" style="margin:0.5rem" src="github-readme-stats-w2gq.vercel.app/api?username=XBaderM&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Baders's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-w2gq.vercel.app/api?username=XBaderM&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Baders's GitHub Stats" />
 </a>
 
 <br>
