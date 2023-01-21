@@ -43,12 +43,11 @@
 <br>
 
 <a href="https://github.com/XBaderM">
-  <img align="center" style="margin:0.5rem" src="github-readme-stats-xbaderm.vercel.app/api/top-langs/?username=XBaderM&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="github-readme-stats-w2gq.vercel.app/api/top-langs/?username=XBaderM&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/XBaderM">
-  <img align="center" style="margin:0.5rem" src="github-readme-stats-w2gq.vercel.app
-/api?username=XBaderM&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Baders's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="github-readme-stats-w2gq.vercel.app/api?username=XBaderM&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Baders's GitHub Stats" />
 </a>
 
 <br>
